@@ -1,0 +1,12 @@
+name: Regresso
+title: Regresso
+username: mashhood23
+account: mashhood23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15127783
+bundleId: 10681976
+url: https://mashhood23.shinyapps.io/Regresso/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
